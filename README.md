@@ -3,7 +3,7 @@
 On s'intéresse ici à un système binaire d'astres, typiquement deux etoiles à neutrons. Il va être question de regarder les propriétés des ondes gravitationnelles qui résultent du mouvement. \\
 Le but de ce travail est d'essayer de comprendre les resultats experimentaux de detection comme celui de Ligo en 2016.
 
-![ligo](ligo.jpg)
+<img src="ligo.jpg" width="60%" height="30%"/>
 
 On pourra alors propser plusieurs modèles pour comprendre le phénomène.
 
@@ -30,5 +30,5 @@ On remplace dans l'expression (3) et on a finalement :
 $$f(t) = f_0 e^{-\frac{3}{2}(cos(2w_0 t) - sin(2w_0 t) - 1)} \mbox{ avec } f_0 = \frac{w_0}{2 \pi}$$
 
 On peut alors tracer le résultat du modèle :
-![mod_classique](model_classique.png)
+<img src="model_classique.png" width="60%" height="30%"/>
 
